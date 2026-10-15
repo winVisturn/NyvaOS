@@ -4,10 +4,6 @@
 
 NyvaOS has its own kernel, window compositor and apps. It includes a real web browser (built on the NetSurf engine), an email client, secure HTTPS connections and saving to disk. The whole system boots from a 13 MB ISO in a few seconds.
 
-![The NyvaOS Dashboard](docs/screenshot-dashboard.png)
-
-![The Web app showing the NyvaOS start page](docs/screenshot-web.png)
-
 ---
 
 ## Features
